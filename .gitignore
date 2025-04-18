@@ -1,0 +1,8 @@
+# .gitignore
+.env
+__pycache__/
+uploads/
+outputs/
+*.pyc
+*.pkl
+.env

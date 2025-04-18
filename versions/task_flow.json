@@ -1,0 +1,18 @@
+{
+    "upload_module": {
+      "status": "completed",
+      "features": ["PDF", "DOCX", "Excel", "URL"]
+    },
+    "agent_system": {
+      "status": "planned",
+      "features": ["Save Config", "Assign Role", "Edit Prompt"]
+    },
+    "chat_interface": {
+      "status": "pending",
+      "features": []
+    },
+    "version_tracker": {
+      "status": "completed",
+      "features": ["Auto-log CSV", "View Logs"]
+    }
+  }
