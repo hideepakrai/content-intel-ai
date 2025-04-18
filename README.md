@@ -22,3 +22,4 @@ content-intel-ai/
 ├── .env
 ├── requirements.txt
 └── README.md
+
